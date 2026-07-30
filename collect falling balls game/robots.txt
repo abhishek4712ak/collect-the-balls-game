@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://collect-the-balls-game-gqhi.vercel.app/sitemap.xml
